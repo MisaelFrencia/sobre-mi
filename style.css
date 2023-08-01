@@ -1,0 +1,37 @@
+html{
+    scroll-behavior: smooth;
+}
+header {
+    background-color: #558c9e;
+    color: aliceblue;}
+body {
+    background-color: hsl(69, 64%, 61%);}
+article {
+    background-color: #e6e7cf;
+    border-radius: 10px;
+    border: 1px solid;
+    padding: 10px;
+    padding-right: 0px;
+}
+h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    background-color: #d1d0b4;}
+img {
+    float: left;
+    padding-right: 10%;
+}
+aside {
+    background-color: rgb(231, 204, 80);
+    border: 1px solid;
+}
+button {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: medium;
+    border: 1px solid;
+    border-radius: 10px;
+    padding: 10px;
+    background-color:rgb(231, 229, 110);
+    text-align: center;
+}
